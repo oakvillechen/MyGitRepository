@@ -1,0 +1,13 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/guodong.chen/flutter
+FLUTTER_APPLICATION_PATH=/Users/guodong.chen/Desktop/MyGitHub/FlutterDemo/flutter_widget_demo
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_TARGET=/var/folders/3g/7jv3mbjn3_v3j17dv0np2q600000gn/T/flutter_tools.czlFGp/flutter_test_listener.n4NJiS/listener.dart
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,SU5URUdSQVRJT05fVEVTVF9TSE9VTERfUkVQT1JUX1JFU1VMVFNfVE9fTkFUSVZFPWZhbHNl
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/guodong.chen/Desktop/MyGitHub/FlutterDemo/flutter_widget_demo/.dart_tool/package_config.json

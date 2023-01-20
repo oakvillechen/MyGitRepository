@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bde03dcadb49609bc119e4c9cd19ece28ae4945eb30d42e35563c5a77a003da3"
+build_start_time: [1674013974, 117815971]
+build_end_time: [1674013994, 693612098]
+inputs:
+  "/Users/guodong.chen/Desktop/MyGitHub/FlipCard/flip_card/macos/Flutter/GeneratedPluginRegistrant.swift": [1674013940, 500265598]
+  "/Users/guodong.chen/Desktop/MyGitHub/FlipCard/flip_card/macos/Runner/AppDelegate.swift": [1639011687, 0]
+  "/Users/guodong.chen/Desktop/MyGitHub/FlipCard/flip_card/macos/Runner/MainFlutterWindow.swift": [1639011687, 0]
