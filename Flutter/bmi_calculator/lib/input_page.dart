@@ -34,7 +34,7 @@ class _InputPageState extends State<InputPage> {
         children: <Widget>[
           Expanded(
               child: Row(
-            children: <Widget>[
+                children: <Widget>[
               Expanded(
                   child: ReusableCard(
                 onPress: () {
@@ -205,23 +205,22 @@ class _InputPageState extends State<InputPage> {
               ],
             ),
           ),
-          BottomButton(buttonTitle: 'CALCULATE',
-              onTap:(){
+          BottomButton(
+              buttonTitle: 'CALCULATE',
+              onTap: () {
                 CalculatorBrain calc =
-                      CalculatorBrain(weight: weight, height: height);
-                Navigator.push(context,
+                    CalculatorBrain(weight: weight, height: height);
+                Navigator.push(
+                    context,
                     MaterialPageRoute(
                         builder: (context) => ResultsPage(
-                      bmiResult: calc.getResult(),
-                      resultText: calc.calculateBMI(),
-                      interpretation: calc.getInterpretation(),
-                )));
+                              bmiResult: calc.getResult(),
+                              resultText: calc.calculateBMI(),
+                              interpretation: calc.getInterpretation(),
+                            )));
               })
         ],
       ),
     );
   }
 }
-
-
-
