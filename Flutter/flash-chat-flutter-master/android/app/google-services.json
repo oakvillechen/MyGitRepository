@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51209798035",
+    "project_id": "flash-chat-6258f",
+    "storage_bucket": "flash-chat-6258f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51209798035:android:2d560e10ca13040a38e866",
+        "android_client_info": {
+          "package_name": "co.DreamHomeGTA.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51209798035-gg4mp3h6luut0abfv1c0dquqr23l646q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQAD1Xym1RenbbnsQeLh3-MW3_VqQHEvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51209798035-gg4mp3h6luut0abfv1c0dquqr23l646q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
