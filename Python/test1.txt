@@ -1,0 +1,13 @@
+Route ID|Delivery Segment ID|Street Name|Street Type|Street Direction|From Street Number|To Street Number|From Street Number Suffix|To Street Number Suffix|From Unit|To Unit|Business Name|Municipality|Province|Postal Code|Alt Street Number|Alt Street Number Suffix|Alt Street Name|Alt Street Type|Alt Street Direction|Alt Unit Number|Alt Municipality|Alt Province|Alt Postal Code|Address Sequence Code|Address Record Type|Service|Delivery Sequence ID|Package Location|Road Segment ID|Road Side Indicator|HFPULocation ID
+4LA|12|10TH|CONC||13120|13784||||||SCHOMBERG|ON|L0G1T0||||||||||2|AddressRange|STD|||||RA4431
+4LA|12|10TH|CONC||13095|13749||||||SCHOMBERG|ON|L0G1T0||||||||||1|AddressRange|STD|||||RA4431
+4LA|16|10TH CONCESSION|||12300|12398||||||KLEINBURG|ON|L0J1C0||||||||||2|AddressRange|STD|||||RC9101
+4LA|32|11TH|CONC||13040|13300||||||SCHOMBERG|ON|L0G1T0||||||||||2|AddressRange|STD|||||RA4431
+4LA|12|11TH|CONC||13580|13600||||||SCHOMBERG|ON|L0G1T0||||||||||2|AddressRange|STD|||||RA4431
+4LA|22|11TH|CONC||13600|13750||||||SCHOMBERG|ON|L0G1T0||||||||||2|AddressRange|STD|||||RA4431
+4LA|G|11TH|CONC||13575|13575||||||SCHOMBERG|ON|L0G1T0||||||||||1|UniqueAddress|STD|||||RA4431
+4LA|12|11TH|CONC||13235|13465||||||SCHOMBERG|ON|L0G1T0||||||||||1|AddressRange|STD|||||RA4431
+L6M||11TH|CONC||12707|12707||||||SCHOMBERG|ON|L0G1T0||||||||||1|UniqueAddress|STD|||||RA4431
+7E1|12|11TH|CONC||15260|15260||||||SCHOMBERG|ON|L0G1T0||||||||||2|UniqueAddress|STD|||||RA4431
+7E1|12|11TH|CONC||15480|16000||||||SCHOMBERG|ON|L0G1T0||||||||||2|AddressRange|STD|||||RA4431
+7E1|12|11TH|CONC||15320|15320||||||SCHOMBERG|ON|L0G1T0||||||||||2|UniqueAddress|STD|||||RA4431
