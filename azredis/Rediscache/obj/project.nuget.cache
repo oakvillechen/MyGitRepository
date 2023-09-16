@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zRlwDdjEE2l1opX9/8ZmlqNbnmRu/fDpJIklN9UM1HutA1LiwdSoc0ptt3qd866yLjNa2J9DKvbbpbIRa8u/Q==",
+  "success": true,
+  "projectFilePath": "/Users/guodong.chen/Desktop/MyGitHub/azredis/Rediscache/Rediscache.csproj",
+  "expectedPackageFiles": [
+    "/Users/guodong.chen/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/guodong.chen/.nuget/packages/stackexchange.redis/2.6.122/stackexchange.redis.2.6.122.nupkg.sha512",
+    "/Users/guodong.chen/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
