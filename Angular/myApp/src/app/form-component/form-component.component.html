@@ -1,0 +1,26 @@
+<div class="container">
+  <h1>User Registration</h1>
+  <form (ngSubmit) ="submit(login)" #login="ngForm"  >
+    <div class="form-group">
+      <label for="firstname">FirstName</label><br>
+      <input #name="ngModel" required minlength="2" maxlength="12" type="text" name="firstname" id="firstname" autocomplete="off" class="form-control" ngModel>
+    </div>
+    <pre></pre>
+    <div class="form-group">
+      <label for="lastname">LastName</label><br>
+      <input type="text" name="lastname" id="lastname" autocomplete="off" class="form-control" ngModel>
+    </div>
+    <pre></pre>
+    <div class="form-group">
+      <label for="email">Email</label><br>
+      <input type="text" name="email" id="email" autocomplete="off" class="form-control" ngModel>
+    </div>
+    <pre></pre>
+    <div class="form-group">
+      <label for="password">Password</label><br>
+      <input type="password" name="password" id="password" autocomplete="off" class="form-control" ngModel>
+    </div>
+    <pre></pre>
+    <button class="btn btn-primary" type="submit">Submit</button>
+  </form>
+</div>

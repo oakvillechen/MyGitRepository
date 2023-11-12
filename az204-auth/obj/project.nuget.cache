@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "feO7U/5l+9qaSYwv/f/zxhS4Z6KIDtl/LngAgLek3z42Hs1/PDD+/Hl9+rDfkToymB4AROGekQPC21dQaU0g8g==",
+  "success": true,
+  "projectFilePath": "/Users/guodong.chen/Desktop/MyGitHub/az204-auth/az204-auth.csproj",
+  "expectedPackageFiles": [
+    "/Users/guodong.chen/.nuget/packages/microsoft.identity.client/4.56.0/microsoft.identity.client.4.56.0.nupkg.sha512",
+    "/Users/guodong.chen/.nuget/packages/microsoft.identitymodel.abstractions/6.22.0/microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}

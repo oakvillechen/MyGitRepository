@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guodong.chen/Desktop/MyGitHub/az204-auth/az204-auth.csproj": {}
+  },
+  "projects": {
+    "/Users/guodong.chen/Desktop/MyGitHub/az204-auth/az204-auth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guodong.chen/Desktop/MyGitHub/az204-auth/az204-auth.csproj",
+        "projectName": "az204-auth",
+        "projectPath": "/Users/guodong.chen/Desktop/MyGitHub/az204-auth/az204-auth.csproj",
+        "packagesPath": "/Users/guodong.chen/.nuget/packages/",
+        "outputPath": "/Users/guodong.chen/Desktop/MyGitHub/az204-auth/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guodong.chen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.56.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
