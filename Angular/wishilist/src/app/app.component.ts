@@ -6,12 +6,13 @@ import { FormsModule } from '@angular/forms';
 
 import { WishListComponent } from './wish-list/wish-list.component';
 import { AddWishFormComponent } from './add-wish-form/add-wish-form.component';
+import { ContactComponent } from './contact/contact.component';
 @Component({
     selector: 'app-root',
     standalone: true,
     templateUrl: './app.component.html',
     styleUrls: ['./app.component.css'],
-    imports: [CommonModule, RouterOutlet, FormsModule, WishListComponent,AddWishFormComponent]
+    imports: [CommonModule, RouterOutlet, FormsModule, WishListComponent,AddWishFormComponent,ContactComponent]
 })
 export class AppComponent {
 
