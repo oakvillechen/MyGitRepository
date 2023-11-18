@@ -56,7 +56,7 @@ export default function LoginPage()
             <h1 className="text-center text-2xl" >Login</h1>
             
             <label htmlFor="email">email</label>
-            <input className="p-2 border rounded-lg mb-4 focus:outline-one"
+            <input className="p-2 border rounded-lg mb-4 focus:outline-one text-black" 
                 id="email"
                 type="text"
                 value={user.email}
@@ -66,7 +66,7 @@ export default function LoginPage()
 
 
             <label htmlFor="password">password</label>
-            <input className="p-2 border rounded-lg mb-4 focus:outline-one"
+            <input className="p-2 border rounded-lg mb-4 focus:outline-one text-black"
                 id="password"
                 type="password"
                 value={user.password}

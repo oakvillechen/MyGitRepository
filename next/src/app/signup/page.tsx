@@ -55,7 +55,7 @@ export default function SignupPage()
             <h1 className="text-center text-2xl" >{loading ? "Loading":"signup"}</h1>
             <hr></hr>
             <label htmlFor="username">user name</label>
-            <input className="p-2 border rounded-lg mb-4 focus:outline-one"
+            <input className="p-2 border rounded-lg mb-4 focus:outline-one text-black"
                 id="username"
                 type="text"
                 value={user.username}
@@ -64,7 +64,7 @@ export default function SignupPage()
                 ></input>
             
             <label htmlFor="password">password</label>
-            <input className="p-2 border rounded-lg mb-4 focus:outline-one"
+            <input className="p-2 border rounded-lg mb-4 focus:outline-one text-black"
                 id="password"
                 type="password"
                 value={user.password}
@@ -73,7 +73,7 @@ export default function SignupPage()
                 ></input>
 
             <label htmlFor="email">email</label>
-            <input className="p-2 border rounded-lg mb-4 focus:outline-one"
+            <input className="p-2 border rounded-lg mb-4 focus:outline-one text-black"
                 id="email"
                 type="text"
                 value={user.email}
