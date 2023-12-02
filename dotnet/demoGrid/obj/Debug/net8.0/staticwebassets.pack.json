@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\obj\\Debug\\net8.0\\compressed\\g2dpgrat5x.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\obj\\Debug\\net8.0\\scopedcss\\bundle\\demoGrid.styles.css",
+      "PackagePath": "staticwebassets\\demoGrid.styles.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Desktop\\MyGitHub\\dotnet\\demoGrid\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.demoGrid.props",
+      "PackagePath": "build\\demoGrid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.demoGrid.props",
+      "PackagePath": "buildMultiTargeting\\demoGrid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.demoGrid.props",
+      "PackagePath": "buildTransitive\\demoGrid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.demoGrid.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
